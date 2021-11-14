@@ -4,7 +4,7 @@
 function App() {
   return (
     <div>
-      <h1>Sons dos Animais</h1>
+      <h1 className="text-info">Sons dos Animais</h1>
     </div>
   )
 }
